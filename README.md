@@ -1,10 +1,10 @@
 <h1 align="center"> Helen García </h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas | Con Interés en Aprender Sobre Tecnologia| Apasionado Sobre la Programacion y el Mundo de las Nuevas Tecnologias | </h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas | Con Interés en Aprender Sobre Tecnologia| </h3>
 _
 
 <h3 align="left"> Sobre mí</h3>
 <p aling="left">Actualmente me encuentro fortaleciendo mis conocimientos en programación orientada a objetos, lógica de programación y bases de datos.
-Disfruto aprender cada dia un poco mas, me gusta resolver problemas, crear pequeños proyectos y mejorar mis habilidades poco a poco.</p>
+Disfruto aprender cada dia un poco más, me gusta resolver problemas, crear pequeños proyectos y mejorar mis habilidades poco a poco.</p>
 _
 
 <h3 align="left">🎯Objetivo</h3>
